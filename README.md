@@ -1,9 +1,4 @@
-**Imię i nazwisko:** Jakub Pranica **Grupa:** Informatyka - 13i **Data:**
-10-04-2017 **Przedmiot:** Metody Programowania
-
-**Wykładowca:** dr inż. Zbigniew Kokosiński **Semestr:** 2
-
-**Temat:** Napisać algorytm znajdujący optymalne upakowanie plecaka dla
+**Temat:** Algorytm znajdujący optymalne upakowanie plecaka dla
 wprowadzonych danych (tj. uzyskanie maksymalnej wartości przedmiotów w plecaku,
 nie przekraczając jego pojemności). Dozwolone jest wielokrotne użycie
 przedmiotów.
